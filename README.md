@@ -1,5 +1,13 @@
 # HealthConnect AI
 
+## 🚀 Live Demo
+
+**Try HealthConnect AI:** [Open the Live Application](https://health-connect-ai-five.vercel.app/)
+
+Explore the HealthConnect AI interface and its healthcare service modules through the deployed web application.
+
+> **Note:** This is a prototype for demonstration and educational purposes. Some features may use simulated data and should not be relied upon for real medical decisions or emergency services.
+
 HealthConnect AI is a web-based healthcare platform prototype designed to bring essential healthcare services and information together in one place.
 
 ## Overview
